@@ -1,0 +1,1 @@
+# QuadSearch-Algorithm
