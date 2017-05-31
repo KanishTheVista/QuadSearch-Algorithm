@@ -2,7 +2,7 @@
 
 #Author : Kanish Kumar
 
-#Email  : kanish.kumar13@gmail.com
+#Email  : kanish.cosmos@gmail.com
 
 #Moto   : Love to contributing new idea's and algorithm which makes life easier.
 
