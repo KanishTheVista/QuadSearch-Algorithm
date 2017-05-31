@@ -20,9 +20,9 @@ int quadSearch(int l,int h,int x){
 		
 		if(x<a[m1])
 		return quadSearch(l,m1-1,x);
-		else if(x<a[m3])
-		return quadSearch(m1+1,m2-1,x);
 		else if(x<a[m2])
+		return quadSearch(m1+1,m2-1,x);
+		else if(x<a[m3])
 		return quadSearch(m2+1,m3-1,x);
 		else
 		return quadSearch(m3+1,h,x);
