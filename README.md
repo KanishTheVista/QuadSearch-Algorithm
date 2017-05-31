@@ -1,8 +1,11 @@
 # QuadSearch-Algorithm
 
 #Author : Kanish Kumar
+
 #Email  : kanish.kumar13@gmail.com
+
 #Moto   : Love to contributing new idea's and algorithm which makes life easier.
+
 #Licence :(Self) I kept this algorithm open for everyone.
 
 #INTRODUCTION 
